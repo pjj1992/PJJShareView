@@ -1,0 +1,6 @@
+framework module Pods_PJJShareView_Example {
+  umbrella header "Pods-PJJShareView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
